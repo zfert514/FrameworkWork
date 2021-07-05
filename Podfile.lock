@@ -1,0 +1,36 @@
+PODS:
+  - Amplify (1.12.0):
+    - Amplify/Default (= 1.12.0)
+  - Amplify/Default (1.12.0)
+  - AWSCognitoIdentityProvider (2.24.2):
+    - AWSCognitoIdentityProviderASF (= 2.24.2)
+    - AWSCore (= 2.24.2)
+  - AWSCognitoIdentityProviderASF (2.24.2)
+  - AWSCore (2.24.2)
+  - AWSPluginsCore (1.12.0):
+    - Amplify (= 1.12.0)
+    - AWSCore (~> 2.24.0)
+
+DEPENDENCIES:
+  - Amplify
+  - AWSCognitoIdentityProvider
+  - AWSPluginsCore
+
+SPEC REPOS:
+  trunk:
+    - Amplify
+    - AWSCognitoIdentityProvider
+    - AWSCognitoIdentityProviderASF
+    - AWSCore
+    - AWSPluginsCore
+
+SPEC CHECKSUMS:
+  Amplify: e8b40b8f4eba1b60cc6cd3334b0e5295c6eee6d1
+  AWSCognitoIdentityProvider: f9d68c563718fa5aa76e077752df06c73810efba
+  AWSCognitoIdentityProviderASF: 21681469334e286df6e5470f3cbab3b10edbf818
+  AWSCore: 08a61ac2b1d98b2d43f59ee40c4bd68e58dfdea3
+  AWSPluginsCore: f84365d3194cde865d405b10f20df865bb56a630
+
+PODFILE CHECKSUM: c2b2f21a66b6b2340462c020ef2b1376069aebeb
+
+COCOAPODS: 1.10.1
