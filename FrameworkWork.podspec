@@ -25,9 +25,6 @@ s.source = { :git => "https://github.com/zfert514/FrameworkWork.git",
 
 # 7
 s.framework = "UIKit"
-s.dependency 'Amplify'
-s.dependency 'AWSPluginsCore'
-s.dependency 'AWSCognitoIdentityProvider'
 
 # 8
 s.source_files = "FrameworkWork/**/*.{swift}"
